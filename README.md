@@ -17,3 +17,4 @@
 13.  Makine Öğrenimi ve Derin Öğrenme eğitimlerinin, makalelerinin ve diğer kaynaklarının konu bazında seçilmiş bir listesini içerir. Bu [linkte](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) diğer harika listeleri bulabilirsiniz.
 14.  3D Makine Öğrenimi konusu hakkında merak ettikleriniz ve ilginiz varsa özenle hazırlanmış bu [repoyu9](https://github.com/timzhang642/3D-Machine-Learning) inceleyebilirsiniz.
 15.  Deep Learning ve Machine Learning ile ilgili oldukça fazla proje bir repoda toplandı. Projeler NLP ile ilgilidir. ([link](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code))
+16.  Öğrenmede önemli bir adım araştırma yapmak ve döküman okumaktır. Ücretsiz yapay zeka kaynaklarını toplayıp oldukça güzel bir [repo](https://github.com/alpyildiz/turkce-yapay-zeka-kaynaklari) oluşturan bu hesabı tebrik etmek isterim
