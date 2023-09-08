@@ -13,4 +13,4 @@
 9.  Derin öğrenme ile ilgili kodları açıklayıcı bir biçimde anlatan py dosyalarından oluşan bu çalışmayı tebrik eder [incelemenizi](https://github.com/lmoroney/dlaicourse) öneririm.
 10.  Bize 7 adımlık yapay zeka yolcuğu sunan bu çalışma oldukça detaylı ve açıklamalı kodlarla daha iyi kavramamızı sağlayacak. [Linke](https://github.com/dataiteam/7-ADIMLIK-YAPAY-ZEKA-YOLCULUGU) tıklayarak ulaşabilirsiniz.
 11.  Yapay zeka ile ilgili örnek proje arayanlar için örnek bir repo bırakıcağım ama unutmayalım github ücretsiz binlerce proje içermektedir istediğiniz alan ile ilgili bir çok proje mevcuttur.. Örnek projelere [linke](https://github.com/burhanwani/Artifical_Intelligence_Projects) tıklayarak ulaşabilirsiniz.
-12.  Yine proje reposu vericeğim ama bu emeği görmezden gelemezdim. Yapay zekada birden çok alanda proje yapmış ve bunları açıklayıp link vermiş. [İncelemenizi](https://github.com/ark4innovation/datascience) öneririm
+12.  Yine proje reposu vereceğim ama bu emeği görmezden gelemezdim. Yapay zekada birden çok alanda proje yapmış ve bunları açıklayıp link vermiş. [İncelemenizi](https://github.com/ark4innovation/datascience) öneririm
