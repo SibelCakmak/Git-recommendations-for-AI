@@ -22,3 +22,4 @@
 18.  Yapay Zeka ile ilgili çeşitli kurslara ve kaynaklara bağlantıların derlenmiş bir koleksiyonudur. İster yeni başlayan ister deneyimli bir geliştirici olun bu [repo](https://github.com/SkalskiP/courses) da herkez için birşeyler var
 19.  Veri bilimi, Machine Learning ve bunun gibi bir çok konu için verilen çevrimiçi kursların derlendiği bu [çalışma](https://github.com/MrinmoiHossain/Online-Courses-Learning) da oldukça yararlı olacaktır.
 20.  Sertifikalı Ücretsiz Kursların repolandığı bu [çalışma](https://github.com/avinash201199/Free-courses-with-Certificates) hepimizin özgeçmişine katkı sağlayabilir.
+21.  Yapay zeka ile proje geliştirmek için python bilgisi oldukça önemlidir. Keşfettiğim bu git reposunda pythonda bilmemeiz gerekn bir çok konuyu anlatmış ve egzersiz yapmış. Data Science ve Machine Lerning gibi bir çok konu da da anlatım yapan repoaya [buraya](https://github.com/codebasics/py/tree/master) tıklayarak ulaşabilirsiniz.
